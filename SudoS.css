@@ -1,0 +1,23 @@
+.parent{
+    /* height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.child{
+    width: 400px;
+    height: 400px;
+    min-width: 400px;
+}
+input{
+    text-align: center;
+    width:40px;
+    height: 40px;
+    border: none;
+}
+.cell1,.cell3,.cell5,.cell7,.cell9{
+    background-color: #a2a3a3;
+}
+.block2,.block4,.block6,.block8{
+    background-color: #99cff3;
+}
